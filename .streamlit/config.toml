@@ -1,0 +1,8 @@
+[theme]
+base = "dark"                    # Force dark mode
+primaryColor = "#00A6ED"          # Bright cyan for primary elements (buttons, etc.)
+backgroundColor = "#192841"       # Your dark navy background color
+secondaryBackgroundColor = "#223A5E"  # Slightly lighter navy for sidebar/background
+textColor = "#FFFFFF"             # White for text contrast
+accentColor = "#F9C80E"           # Warm yellow for accent (like links, buttons hover)
+font = "sans serif"               # Font (you can customize this)
